@@ -1,0 +1,15 @@
+{
+    "bin-size": 2000,
+    "bin-type": "fixed",
+    "creation-date": "2023-04-06T04:37:43.788912",
+    "format": "HDF5::Cooler",
+    "format-url": "https://github.com/open2c/cooler",
+    "format-version": 3,
+    "generated-by": "cooler-0.8.11",
+    "genome-assembly": "unknown",
+    "nbins": 60203,
+    "nchroms": 7,
+    "nnz": 19583177,
+    "storage-mode": "symmetric-upper",
+    "sum": 63912926
+}
